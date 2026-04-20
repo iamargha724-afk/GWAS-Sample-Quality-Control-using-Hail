@@ -1,8 +1,7 @@
 # 🧬 Genome-Wide Association Studies (GWAS) Workshop
 
 <p align="center">
-  <img src="certificate/certificate.png" alt="Certificate of Completion" width="600"/>
-</p>
+  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Organised%20By-Dr.%20Omics%20Labs-red?style=for-the-badge" />
